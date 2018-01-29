@@ -17,7 +17,7 @@ sur l'invite de commande va alors vous l'indiquer en éxécutant la ligne préc�
 
 Pour exécuter notre notebook, il suffit de compiler chaque partie de Python du notebook dans l'ordre (de haut en bas).
 
-Le but de ce notebook est de trouver les hyperparamètres optimaux de divers algorithmes de machines learning (ici disponibles sur sklearn) en fonction des données disponibles (le datasets). Pour cela on utilise de l'optimisation bayésienne qui en fonction des données, optimisera de façon différente deux algorithmes de machine learning.
+Le but de ce notebook est de trouver les hyperparamètres optimaux de divers algorithmes de machines learning (ici disponibles sur sklearn) en fonction des données disponibles (le datasets). Pour cela on utilise de l'optimisation bayésienne qui, en fonction des données, optimisera de façon différente plusieurs algorithmes de machine learning.
 Dans ce notebook, on peut de visualiser plusieurs cas de machine learning (SVM et SGD) avec des différents types de datasets.
 
 Voir le notebook pour plus de détails sur l'étude et l'implémentation en Python.
